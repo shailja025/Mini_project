@@ -1,0 +1,7 @@
+Data Augmentation: True
+Loss function: categorical_crossentropy
+Optimizer: Adam
+Learning Rate: 0.001
+Epochs: 5
+Batch Size: 16
+Accuracy: 87.5
